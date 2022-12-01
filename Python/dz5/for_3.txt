@@ -1,0 +1,10 @@
+Ivanov 15000
+Petrov 21000
+Sidorov 19000
+Katushin 67000
+Sinushin 6000
+Ivanova 5000
+Petrova 91000
+Katushina 9000
+Sinushina 17000
+Sidorova 8500
